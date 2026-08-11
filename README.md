@@ -8,7 +8,7 @@
 
 ---
 
-### `> whoami`
+### `> who am i`
 
 ```
 Name     : Abhinav
