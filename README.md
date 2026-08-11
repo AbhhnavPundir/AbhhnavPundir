@@ -13,7 +13,7 @@
 ```
 Name     : Abhinav
 Handle   : AbhhnavPundir
-College  : BTech CSE, 3rd Year — AKTU
+College  : BTech CSE, 3rd Year 
 Stack    : Python · Java · JavaScript · React · NumPy · Docker
 Domains  : Digital Art · DevOps · Open Source · Systems
 Status   : Building. Always building.
@@ -52,8 +52,7 @@ Status   : Building. Always building.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AbhhnavPundir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&hide=contribs"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhhnavPundir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=AbhhnavPundir&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 </div>
 
@@ -63,7 +62,7 @@ Status   : Building. Always building.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AbhhnavPundir&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8b949e&fire=c9d1d9&currStreakLabel=8b949e"/>
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhhnavPundir&theme=dark&hide_border=true)
 
 </div>
 
