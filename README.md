@@ -48,16 +48,6 @@ Status   : Building. Always building.
 
 ---
 
-### `> stats`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AbhhnavPundir..."/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhhnavPundir..."/>
-
-</div>
-
----
 
 ### `> streak`
 
