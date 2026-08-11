@@ -53,7 +53,6 @@ Status   : Building. Always building.
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AbhhnavPundir&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 </div>
 
 ---
