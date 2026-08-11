@@ -13,7 +13,7 @@
 ```
 Name     : Abhinav
 Handle   : AbhhnavPundir
-College  : BTech CSE, 3rd Year — AKTU
+College  : BTech CSE, 3rd Year 
 Stack    : Python · Photoshop · React 
 Domains  : Digital Art · WebApplications · UI/UX
 Status   : Building. Always building.
@@ -35,7 +35,6 @@ Status   : Building. Always building.
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
