@@ -13,9 +13,9 @@
 ```
 Name     : Abhinav
 Handle   : AbhhnavPundir
-College  : BTech CSE, 3rd Year 
-Stack    : Python · Photoshop · React 
-Domains  : Digital Art · WebApplications · UI/UX
+College  : BTech CSE, 3rd Year — AKTU
+Stack    : Python · Java · JavaScript · React · NumPy · Docker
+Domains  : Digital Art · DevOps · Open Source · Systems
 Status   : Building. Always building.
 ```
 
@@ -35,10 +35,14 @@ Status   : Building. Always building.
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=013243)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 
 </div>
 
